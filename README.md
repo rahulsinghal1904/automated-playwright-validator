@@ -2,7 +2,27 @@
 
 Thank you for the opportunity to complete this take-home! This repository contains my solution to QA Wolf's QA Engineer challenge using Playwright and JavaScript.
 
+## ⚙️ Setup Instructions
 
+1. Install dependencies:
+
+```bash
+npm install
+```
+
+2. For a debug view or single run:
+
+```bash
+node index.js
+```
+
+3. To run the full test suite:
+
+```bash
+npx playwright test
+```
+
+---
 ##  Article Sorting Validation
 
 **Goal:**  
@@ -37,27 +57,7 @@ npx playwright test tests/hackernews.spec.js
 
 ---
 
-## ⚙️ Setup Instructions
 
-1. Install dependencies:
-
-```bash
-npm install
-```
-
-2. To run the full test suite:
-
-```bash
-npx playwright test
-```
-
-3. For a debug view or single run:
-
-```bash
-node index.js
-```
-
----
 
 ## 🔧 Playwright Configuration
 
