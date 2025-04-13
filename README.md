@@ -74,9 +74,3 @@ Before uploading:
 - This folder is zipped **without** `node_modules` to reduce size
 
 ---
-
-## 🙌 Final Notes
-
-QA Wolf’s vision of accessible, scalable QA automation truly aligns with my passion for quality engineering and impactful tooling. Thank you again for the opportunity — I’m excited to potentially join the pack!
-
-— **Rahul Singhal**
