@@ -1,6 +1,4 @@
-# 🐺 QA Wolf Take-Home Assignment Submission
-
-Thank you for the opportunity to complete this take-home! This repository contains my solution to QA Wolf's QA Engineer challenge using Playwright and JavaScript.
+# Automated Playwright based HackerNews validator
 
 ## ⚙️ Setup Instructions
 
